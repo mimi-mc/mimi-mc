@@ -1,4 +1,4 @@
-👋 Hi, I’m @mimi-mc, currently a student @Wellcode 
+👋 Hi, I’m Mimi, currently a student @Wellcode 
 
 <!---
 mimi-mc/mimi-mc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
