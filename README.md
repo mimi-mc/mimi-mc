@@ -2,6 +2,7 @@
 ### SKILLS:
 * React
 * Perl
+* PostgreSQL
 * C++, JAVA (Algorithm and data structure problems)
 
 
