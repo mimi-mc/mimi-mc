@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Mimi. Welcome to my GitHub page!
-### SKILLS:
+### 💻 SKILLS:
 * React
 * Perl
 * PostgreSQL
