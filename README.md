@@ -2,7 +2,6 @@
 ### 💻 SKILLS:
 ✔ FRONTEND:
 * React
-* JavaScript
 
 ✔ BACKEND:
 * Perl
