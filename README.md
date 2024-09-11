@@ -1,7 +1,12 @@
 ## 👋 Hi, I’m Mimi. Welcome to my GitHub page!
 ### 💻 SKILLS:
+✔ FRONTEND:
 * React
+* JavaScript
+
+✔ BACKEND:
 * Perl
+* Mojolicious
 * PostgreSQL
 * C++, JAVA (Algorithm and data structure problems)
 
