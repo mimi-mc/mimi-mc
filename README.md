@@ -4,6 +4,7 @@
 * React
 
 ✔ BACKEND:
+* Node.js
 * Perl
 * Mojolicious
 * PostgreSQL
